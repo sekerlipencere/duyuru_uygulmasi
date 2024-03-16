@@ -11,9 +11,9 @@ namespace DuyuruUygulamasi
     public partial class MainWindow : Window
     {
         private string dosyaAdi = "duyurular.txt";
-        private string ftpSunucu = "ftp://188.132.198.82/public_html/";
-        private string ftpKullaniciAdi = "palmiyel";
-        private string ftpSifre = "97lPj7]Ql[jU2Y";
+        private string ftpSunucu = "ftp://ftpadresiniz/htdocs/";
+        private string ftpKullaniciAdi = "kullanıcıadınız";
+        private string ftpSifre = "şifreniz";
         private bool ilkCalistirma = true;
         private bool pencereGizli = true;
 
