@@ -16,6 +16,8 @@ Kullanıcının bilgisayarında istediğimiz süre boyunca metin içerikli bir d
 
 ## Nasıl Kullanılır ? 
 - InfinityFree'den aldığınız ftp bilgilerini C# kodunda uygun yere yazdıktan sonra, aldığınız sunucuya depoda bulununan index.php dosyasını yüklüyoruz.Ardından index.php ile aynı dizinde olacak şekilde duyurular.txt adlı bir dosya daha oluşturup içini boş bırakıyoruz.
+## Anlamayanlar İçin Aşırı Detaylı Anlatım
+- 1.Adım--->
 
 
   
