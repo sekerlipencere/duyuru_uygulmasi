@@ -1,7 +1,7 @@
 
 # Duyuru Programı
 
-Kullanıcının bilgisayarında istediğimiz süre boyunca metin içerikli bir duyuruyu tam ekran ve kapatılamaz olarak göstermeyi sağlayan C# ve PHP entegrasyonu.
+Kullanıcının bilgisayarında web arayüzünden ayarladığımız süre boyunca metin içerikli bir duyuruyu tam ekran ve kapatılamaz olarak göstermeyi sağlayan C# ve PHP entegrasyonu.
 
 
 
@@ -15,9 +15,8 @@ Kullanıcının bilgisayarında istediğimiz süre boyunca metin içerikli bir d
 - PHP kodu html formu ile duyuru metni ve süresini kullanıcıdan alır ve duyurular.txt dosyasının ilk satırına arada "$" işaretyle yazar.
 
 ## Nasıl Kullanılır ? 
-- InfinityFree'den aldığınız ftp bilgilerini C# kodunda uygun yere yazdıktan sonra, aldığınız sunucuya depoda bulununan index.php dosyasını yüklüyoruz.Ardından index.php ile aynı dizinde olacak şekilde duyurular.txt adlı bir dosya daha oluşturup içini boş bırakıyoruz.
-## Anlamayanlar İçin Aşırı Detaylı Anlatım
-- 1.Adım--->
+- InfinityFree'den aldığınız ftp bilgilerini C# kodunda uygun yere yazdıp kodu derledikten sonra, aldığınız sunucuya depoda bulununan index.php dosyasını fpt teki "htdocs" klasörüne yüklüyoruz.Ardından index.php ile aynı dizinde olacak şekilde duyurular.txt adlı bir dosya daha oluşturup içini boş bırakıyoruz.
+
 
 
   
