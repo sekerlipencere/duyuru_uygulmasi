@@ -7,7 +7,7 @@ Kullanıcının bilgisayarında web arayüzünden ayarladığımız süre boyunc
 
 ## Gereksinimler
 - C# Projesi Derlemeyi Bilen Bir Kişi (Opsiyonel)
-- Bir FTP Sunucusu (InfinityFree adlı sitededen ücretsiz olarak alabilirsiniz. )
+- Bir Web Sunucusu (InfinityFree adlı sitededen ücretsiz olarak alabilirsiniz. )
 
 ## Nasıl Çalışır ?
 
